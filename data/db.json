@@ -1,0 +1,34 @@
+{
+    "post" : [
+        {
+            "id": 1,
+            "title": "Title of a Post 1",
+            "datetime": "July 1, 2025",
+            "body": "Lorem content for post 1."
+        },
+        {
+            "id": 2,
+            "title": "Title of a Post 2",
+            "datetime": "July 2, 2025",
+            "body": "Lorem ipsum content for post 2."
+        },
+        {
+            "id": 3,
+            "title": "Title of a Post 3",
+            "datetime": "July 3, 2025",
+            "body": "Lorem ipsum content for post 3."
+        },
+        {
+            "id": 4,
+            "title": "Title of a Post 4",
+            "datetime": "July 4, 2025",
+            "body": "Lorem ipsum content for post 4."
+        },
+        {
+            "id": 5,
+            "title": "Title of a Post 5",
+            "datetime": "July 5, 2025",
+            "body": "Lorem ipsum content for post 5."
+        }
+    ]
+}
