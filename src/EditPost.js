@@ -36,7 +36,7 @@ const EditPost = ({posts, handleEdit, editBody, setEditBody, editTitle, setEditT
                     </form>
                 </>
             }
-            {!editTitle &&~
+            {!editTitle &&
                 <>
                     <h2>Post Not Found</h2>
                     <p>Well Well Well</p>
